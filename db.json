@@ -1,1 +1,60 @@
-
+{
+    "categories": [
+      {
+        "name": "dogs",
+        "images": [
+		"https://res.cloudinary.com/drl3mzvpx/image/upload/v1700157540/stickers/1_29_alq1wq.jpg", 
+		"https://res.cloudinary.com/drl3mzvpx/image/upload/v1700157537/stickers/1_17_xy52rq.jpg", 
+		"https://example.com/cat3.png"
+		]
+      },
+	  {
+        "name": "cats",
+        "images": [
+		"https://res.cloudinary.com/drl3mzvpx/image/upload/v1700157550/stickers/1_7_icfuna.jpg", 
+		"https://res.cloudinary.com/drl3mzvpx/image/upload/v1700157544/stickers/1_20_oy3kzm.jpg", 
+		"https://example.com/cat3.png"
+		]
+      },
+	  {
+        "name": "turtle",
+        "images": [
+		"https://res.cloudinary.com/drl3mzvpx/image/upload/v1700157551/stickers/1_1_lbgob4.jpg", 
+		"https://res.cloudinary.com/drl3mzvpx/image/upload/v1700157542/stickers/1_30_d8vmfv.jpg", 
+		"https://example.com/cat3.png"
+		]
+      },
+	  {
+        "name": "Penguin",
+        "images": [
+		"https://res.cloudinary.com/drl3mzvpx/image/upload/v1700157544/stickers/1_6_dwff2b.jpg", 
+		"https://res.cloudinary.com/drl3mzvpx/image/upload/v1700157540/stickers/1_5_fvapeq.jpg", 
+		"https://example.com/cat3.png"
+		]
+      },
+	  {
+        "name": "Koala",
+        "images": [
+		"https://res.cloudinary.com/drl3mzvpx/image/upload/v1700157551/stickers/1_41_hcbm8b.jpg", 
+		"https://example.com/cat2.png", 
+		"https://example.com/cat3.png"
+		]
+      },
+	  {
+        "name": "Lion",
+        "images": [
+		"https://res.cloudinary.com/drl3mzvpx/image/upload/v1700157550/stickers/1_26_z9inz5.jpg", 
+		"https://example.com/cat2.png", 
+		"https://example.com/cat3.png"
+		]
+      },
+      {
+        "name": "Panda",
+        "images": [
+		"https://res.cloudinary.com/drl3mzvpx/image/upload/v1700157541/stickers/1_9_y0mawb.jpg",  
+		"https://res.cloudinary.com/drl3mzvpx/image/upload/v1700157541/stickers/1_14_j4wqcb.jpg"
+		]
+      }
+    ]
+  }
+  
